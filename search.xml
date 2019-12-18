@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>电动车车险服务-02</title>
-      <link href="/2019/12/20/title-dian-dong-che-che-xian-fu-wu-02/"/>
-      <url>/2019/12/20/title-dian-dong-che-che-xian-fu-wu-02/</url>
-      
-        <content type="html"><![CDATA[<h4 id="电动车车险服务-02"><a href="#电动车车险服务-02" class="headerlink" title="电动车车险服务-02"></a>电动车车险服务-02</h4><h5 id="首页功能位"><a href="#首页功能位" class="headerlink" title="首页功能位"></a>首页功能位</h5><ol><li><p>投保信息</p><ul><li>显示最近一次投保信息<ul><li>上次投保日期</li><li>车主姓名</li><li>车主手机号</li><li>保险公司</li><li>保险金额</li><li>被保车牌</li><li>投保期限</li><li>续保==&gt; 点击进入购买保险页面</li></ul></li></ul></li><li><p>购买保险</p><ul><li>购买保险表单<ul><li>显示车主手机号(可修改)</li><li>显示车主姓名(可修改)</li><li>选择保险公司</li><li>选择保险期限</li><li>显示计算后价格</li><li>确认提交==&gt; 跳转至支付页面</li></ul></li><li>显示 &lt;保险代理机构客户告知书&gt;&lt;电动车车险价格提醒说明&gt;</li></ul></li><li><p>理赔办理</p><ul><li>显示可以投保的保险公司列表</li><li>点击列表选项可拨打电话沟通理赔</li><li>显示 120 急救电话, 显示 122 交通事故报警电话, 点击可进行拨打</li><li>显示理赔记录==&gt; 点击进入理赔记录列表页面</li></ul></li><li><p>保单查询</p><ul><li>显示每次投保保单信息的列表</li></ul></li></ol><h5 id="支付页面"><a href="#支付页面" class="headerlink" title="支付页面"></a>支付页面</h5><ol><li>显示当前所选投保信息</li><li>显示支付方式<ul><li>微信支付</li><li>支付宝支付</li><li>提交==&gt; 调起支付宝或微信支付客户端进行付款</li><li>查询支付回调==&gt; 支付成功后跳转至支付成功页面, 否则提示支付失败, 停留在当前支付页面</li></ul></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂货 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 电动车 </tag>
-            
-            <tag> 保险 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>电动车车险服务-01</title>
       <link href="/2019/12/20/title-dian-dong-che-che-xian-fu-wu-01/"/>
       <url>/2019/12/20/title-dian-dong-che-che-xian-fu-wu-01/</url>
@@ -58,11 +31,38 @@
     
     
     <entry>
+      <title>电动车车险服务-02</title>
+      <link href="/2019/12/20/title-dian-dong-che-che-xian-fu-wu-02/"/>
+      <url>/2019/12/20/title-dian-dong-che-che-xian-fu-wu-02/</url>
+      
+        <content type="html"><![CDATA[<h4 id="电动车车险服务-02"><a href="#电动车车险服务-02" class="headerlink" title="电动车车险服务-02"></a>电动车车险服务-02</h4><h5 id="首页功能位"><a href="#首页功能位" class="headerlink" title="首页功能位"></a>首页功能位</h5><ol><li><p>投保信息</p><ul><li>显示最近一次投保信息<ul><li>上次投保日期</li><li>车主姓名</li><li>车主手机号</li><li>保险公司</li><li>保险金额</li><li>被保车牌</li><li>投保期限</li><li>续保==&gt; 点击进入购买保险页面</li></ul></li></ul></li><li><p>购买保险</p><ul><li>购买保险表单<ul><li>显示车主手机号(可修改)</li><li>显示车主姓名(可修改)</li><li>选择保险公司</li><li>选择保险期限</li><li>显示计算后价格</li><li>确认提交==&gt; 跳转至支付页面</li></ul></li><li>显示 &lt;保险代理机构客户告知书&gt;&lt;电动车车险价格提醒说明&gt;</li></ul></li><li><p>理赔办理</p><ul><li>显示可以投保的保险公司列表</li><li>点击列表选项可拨打电话沟通理赔</li><li>显示 120 急救电话, 显示 122 交通事故报警电话, 点击可进行拨打</li><li>显示理赔记录==&gt; 点击进入理赔记录列表页面</li></ul></li><li><p>保单查询</p><ul><li>显示每次投保保单信息的列表</li></ul></li></ol><h5 id="支付页面"><a href="#支付页面" class="headerlink" title="支付页面"></a>支付页面</h5><ol><li>显示当前所选投保信息</li><li>显示支付方式<ul><li>微信支付</li><li>支付宝支付</li><li>提交==&gt; 调起支付宝或微信支付客户端进行付款</li><li>查询支付回调==&gt; 支付成功后跳转至支付成功页面, 否则提示支付失败, 停留在当前支付页面</li></ul></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂货 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电动车 </tag>
+            
+            <tag> 保险 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>逆境重生</title>
       <link href="/2019/12/18/ni-jing-chong-sheng/"/>
       <url>/2019/12/18/ni-jing-chong-sheng/</url>
       
-        <content type="html"><![CDATA[<h4 id="逆境重生"><a href="#逆境重生" class="headerlink" title="逆境重生"></a>逆境重生</h4><hr><p>title: 逆境重生<br>author: __Anonymous<br>summary:越来越拘谨是因为生活桎梏，越来越礼貌是因为无人可亲，越来越沉默是因为伤得太深。人的恬淡有时不是因为淡泊之心境，而是因为无奈之人生。逆境的苦楚，黯然心伤；逆境的荒凉，不堪体会。<br>categories: 随笔<br>tags:</p><ul><li>逆境</li></ul><hr><h4 id="逆境重生-1"><a href="#逆境重生-1" class="headerlink" title="逆境重生"></a>逆境重生</h4><blockquote><p>越来越拘谨是因为生活桎梏，越来越礼貌是因为无人可亲，越来越沉默是因为伤得太深。人的恬淡有时不是因为淡泊之心境，而是因为无奈之人生。逆境的苦楚，黯然心伤；逆境的荒凉，不堪体会。</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h4 id="逆境重生"><a href="#逆境重生" class="headerlink" title="逆境重生"></a>逆境重生</h4><hr><p>title: 逆境重生<br>author: __Anonymous</p><p>summary:越来越拘谨是因为生活桎梏，越来越礼貌是因为无人可亲，越来越沉默是因为伤得太深。人的恬淡有时不是因为淡泊之心境，而是因为无奈之人生。逆境的苦楚，黯然心伤；逆境的荒凉，不堪体会。<br>categories: 随笔<br>tags:</p><ul><li>逆境</li></ul><hr><h4 id="逆境重生-1"><a href="#逆境重生-1" class="headerlink" title="逆境重生"></a>逆境重生</h4><blockquote><p>越来越拘谨是因为生活桎梏，越来越礼貌是因为无人可亲，越来越沉默是因为伤得太深。人的恬淡有时不是因为淡泊之心境，而是因为无奈之人生。逆境的苦楚，黯然心伤；逆境的荒凉，不堪体会。</p></blockquote>]]></content>
       
       
       
